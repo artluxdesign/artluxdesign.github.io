@@ -352,7 +352,7 @@ section.alt h2,
 section.alt h3,
 section.alt h4,
 section.alt h3.sub-title {
-  color: #FFFFFF;
+  /*color: #FFFFFF;*/
 }
 
 section.alt .sep {
